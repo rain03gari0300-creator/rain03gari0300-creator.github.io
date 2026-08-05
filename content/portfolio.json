@@ -1,0 +1,109 @@
+{
+  "profile": {
+    "name": "Raín Garibaldi",
+    "shortName": "Raín",
+    "role": "Mecánica industrial · Tecnología aplicada",
+    "location": "Colón, Panamá",
+    "availability": "Disponible para oportunidades y colaboraciones",
+    "intro": "Profesional en formación en Mecánica Industrial, con experiencia práctica en entornos industriales y de astillero. Me interesa transformar necesidades reales en soluciones seguras, claras y funcionales.",
+    "photo": "",
+    "cvFile": "cv-rain-garibaldi.pdf",
+    "facts": [
+      { "label": "Formación", "value": "Mecánica Industrial" },
+      { "label": "Enfoque", "value": "Tecnología aplicada" },
+      { "label": "Ubicación", "value": "Colón, Panamá" }
+    ],
+    "contacts": {
+      "email": "",
+      "whatsapp": "",
+      "linkedin": "",
+      "github": "https://github.com/rain03gari0300-creator"
+    }
+  },
+  "about": {
+    "title": "Técnica, criterio y mejora continua.",
+    "lead": "Me muevo entre la mecánica, la operación industrial y la tecnología con una idea sencilla: cada proyecto debe resolver un problema real.",
+    "detail": "Mi formación combina fundamentos de mantenimiento y mecánica industrial con proyectos de electrónica, programación e investigación. Disfruto entender cómo funciona un sistema, documentarlo con claridad y llevar una propuesta desde el concepto hasta una solución comprobable.",
+    "focus": [
+      {
+        "number": "A / 01",
+        "title": "Mecánica industrial",
+        "description": "Mantenimiento, diagnóstico, interpretación de planos y solución práctica de problemas técnicos."
+      },
+      {
+        "number": "A / 02",
+        "title": "Entornos marítimos",
+        "description": "Experiencia cercana a operaciones de astillero, seguridad y trabajos vinculados al varado de embarcaciones."
+      },
+      {
+        "number": "A / 03",
+        "title": "Innovación aplicada",
+        "description": "Uso de programación, visión artificial y electrónica para mejorar procesos de formación, control y diagnóstico."
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Identificación inteligente de soldaduras",
+      "category": "Visión artificial / Control de calidad",
+      "status": "Prototipo desarrollado",
+      "summary": "Sistema de bajo costo para reconocer superficies soldadas y apoyar la identificación de discontinuidades comunes en procesos SMAW.",
+      "tags": ["Python", "YOLOv8", "SMAW", "AWS D1.1"]
+    },
+    {
+      "title": "Plataforma interactiva para mecánica",
+      "category": "Educación técnica / Software",
+      "status": "En desarrollo",
+      "summary": "Entorno de aprendizaje secuencial inspirado en laboratorios industriales, diseñado para practicar instrumentación, diagnóstico y fundamentos mecánicos.",
+      "tags": ["React", "Django", "OBD-II", "Formación"]
+    },
+    {
+      "title": "Sistema EEG de bajo costo",
+      "category": "Electrónica biomédica",
+      "status": "Diseño y validación",
+      "summary": "Diseño de una cadena analógica de adquisición y filtrado para señales EEG, orientada a prototipos accesibles y análisis experimental.",
+      "tags": ["AD620", "Filtros activos", "Proteus", "IEEE"]
+    },
+    {
+      "title": "Respiración a partir de video",
+      "category": "Investigación / Procesamiento de señales",
+      "status": "Investigación",
+      "summary": "Estudio de técnicas para estimar la frecuencia respiratoria sin contacto mediante video, magnificación de movimiento y análisis de señales.",
+      "tags": ["FFT", "Wavelet", "Video", "Validación"]
+    }
+  ],
+  "journey": [
+    {
+      "period": "Actualidad",
+      "title": "Licenciatura en Mecánica Industrial",
+      "place": "Universidad Tecnológica de Panamá",
+      "description": "Formación enfocada en sistemas mecánicos, mantenimiento, procesos industriales, diagnóstico y mejora continua."
+    },
+    {
+      "period": "Experiencia",
+      "title": "Operaciones industriales y de astillero",
+      "place": "Colón, Panamá",
+      "description": "Participación en entornos donde la seguridad, la coordinación y la ejecución técnica son esenciales para cumplir cada operación."
+    },
+    {
+      "period": "Formación complementaria",
+      "title": "Seguridad y competencias marítimas",
+      "place": "Capacitación técnica",
+      "description": "Preparación complementaria orientada al trabajo seguro, la respuesta ante riesgos y el desempeño responsable en ambientes marítimos."
+    }
+  ],
+  "skills": [
+    "Mantenimiento industrial",
+    "Diagnóstico técnico",
+    "Interpretación de planos",
+    "Seguridad industrial",
+    "Documentación técnica",
+    "Python",
+    "YOLOv8",
+    "Electrónica analógica",
+    "Procesamiento de señales",
+    "React y Django",
+    "Trabajo en equipo",
+    "Mejora continua"
+  ]
+}
